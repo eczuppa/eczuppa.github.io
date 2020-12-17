@@ -1,5 +1,7 @@
 layout: page
+
 title: "About"
+
 permalink: /https://eczuppa.github.io/about/
 
 ## About
