@@ -1,3 +1,10 @@
+layout: page
+
+title: "home"
+
+permalink: /https://eczuppa.github.io/home/
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/eczuppa/eczuppa.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
