@@ -1,7 +1,5 @@
 layout: page
-
 title: "home"
-
 permalink: /https://eczuppa.github.io/home/
 
 
