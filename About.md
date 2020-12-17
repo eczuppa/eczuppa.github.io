@@ -1,3 +1,7 @@
+layout: page
+title: "About"
+permalink: /https://eczuppa.github.io/about/
+
 ## About
 
 Hi! My name is Ethan Czuppa. And this is my online portfolio.
